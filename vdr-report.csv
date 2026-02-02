@@ -1,0 +1,7 @@
+cve_id,package_name,package_ecosystem,current_version,fixed_version,repository,manifest_path,severity,summary
+GHSA-6475-r3vj-m8vf,@smithy/config-resolver,javascript,4.1.4,,vdr-js-test,package.json,low,CVSSv3.1 Rating: 3.7 (LOW) - This notification is related to the use of specific values for the region input field when calling AWS services.
+CVE-2021-23337,lodash,javascript,4.17.20,,vdr-js-test,package.json,high,Lodash versions prior to 4.17.21 are vulnerable to Command Injection via the template function.
+CVE-2020-28500,lodash,javascript,4.17.20,,vdr-js-test,package.json,medium,Lodash versions prior to 4.17.21 are vulnerable to Regular Expression Denial of Service (ReDoS).
+CVE-2021-3749,axios,javascript,0.21.1,,vdr-js-test,package.json,high,axios is vulnerable to Inefficient Regular Expression Complexity.
+CVE-2021-44906,minimist,javascript,1.2.5,,vdr-js-test,package.json,critical,Prototype pollution in minimist allows an attacker to add or modify properties of Object.prototype.
+CVE-2022-0235,node-fetch,javascript,2.6.1,,vdr-js-test,package.json,medium,node-fetch is vulnerable to Exposure of Sensitive Information to an Unauthorized Actor.
