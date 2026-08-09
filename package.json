@@ -13,7 +13,7 @@
   "dependencies": {
     "@smithy/config-resolver": "4.1.4",
     "lodash": "4.17.20",
-    "axios": "0.21.1",
+    "axios": "0.33.0",
     "minimist": "1.2.5",
     "node-fetch": "2.6.1"
   }
